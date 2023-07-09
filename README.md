@@ -1,2 +1,1 @@
-# arquivo01
 curriculo
